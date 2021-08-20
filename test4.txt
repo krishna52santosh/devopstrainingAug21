@@ -1,4 +1,2 @@
 this is test file 4
-this is test line 2
-
-test lienen ewewr
+this fixing conflicts in code
