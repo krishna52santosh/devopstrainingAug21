@@ -1,3 +1,2 @@
 this is test file 4
-this is sampe line
-this is test line in test file 4
+this fixing conflicts in code
